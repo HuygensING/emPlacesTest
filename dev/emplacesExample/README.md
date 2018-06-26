@@ -1,3 +1,3 @@
 # emPlacesTest
 
-Just open the page in your browser
+Moved to: https://github.com/culturesofknowledge/emplaces/tree/master/dev/emplacesExample
